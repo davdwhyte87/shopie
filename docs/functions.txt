@@ -1,0 +1,22 @@
+
+A user signs up
+
+a shop signs up
+a shop owner creates products
+a shop owner edits a product
+a shop owner deletes a product
+
+user views shops
+user checks into a shop
+user adds product to cart
+user checks out and pays
+
+user recieves a mail
+user views transaction
+
+
+shop owner gets order
+shop owner processes order and confirms transaction
+
+
+user confirms delivery

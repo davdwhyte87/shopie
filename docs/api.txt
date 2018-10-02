@@ -1,0 +1,10 @@
+API DOC
+--------
+
+
+User
+-----
+Signup [name,email,phone,password]
+signin [email,password]
+fpass [email]
+change_passf [code,password]

@@ -1,0 +1,9 @@
+Flask
+flask_sqlalchemy
+flask_inputs
+wtforms
+flask_migrate
+flask_script
+PyJWT
+psycopg2
+flask-marshmallow
